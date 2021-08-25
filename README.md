@@ -3,3 +3,4 @@ Initial Git working
 Starting with Github
 
 First modify
+changes made after 1st push.
